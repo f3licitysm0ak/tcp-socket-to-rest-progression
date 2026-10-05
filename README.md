@@ -1,6 +1,4 @@
-**Progression from TCP socket client-server programming to HTTP/RESTful mini-service.** <br>
-
-A step-by-step progression from low-level TCP socket programming to building a RESTful HTTP-like mini-service.
+** Step-by-step progression from TCP socket client-server programming to HTTP/RESTful mini-service.** <br>
 ---
 
 ## Overview
